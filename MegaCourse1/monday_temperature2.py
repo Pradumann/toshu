@@ -1,0 +1,1 @@
+monday_temperature = ['hello',1, 2, 3]

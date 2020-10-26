@@ -1,0 +1,1 @@
+student_grades = {"Marry": 9.5, "Sim": 8.5, "John": 7.5 }
